@@ -1,1 +1,1 @@
-# 添加自定义规则
+# MY CLASH CONFIG
